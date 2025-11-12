@@ -1,0 +1,3 @@
+Laporan Penghasilan Admin
+Nama: admin
+Penghasilan: Rp5000000
